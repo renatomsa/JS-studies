@@ -1,2 +1,2 @@
 ## Hello, world!
- Sharing my JS studies for begginers
+ Sharing my JS studies (for begginers)

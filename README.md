@@ -1,2 +1,2 @@
-# JS-studies
- Sharing JS studies for begginers
+## Hello, world!
+ Sharing my JS studies for begginers

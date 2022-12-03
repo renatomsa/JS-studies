@@ -20,6 +20,7 @@
 - Functions are blocks of code designed to perform a particular task. They are executed when "something" invokes them (calls them);
 - Functions are defined with the `function` keyword, followed by a name, followed by parentheses `()`;
 - Function parameters are listed inside the parentheses `()` in the function definition;
+- Default parameters allow named parameters to be initialized with default values if no value or undefined is passed. Example: `function myFunction(x, y = 10) { // code to be executed }`;
 - Function arguments are the values received by the function when it is invoked;
 - Inside the function, the arguments (the parameters) behave as local variables;
 - The `return` statement stops the execution of a function and returns a value from that function;
